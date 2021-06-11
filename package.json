@@ -1,5 +1,5 @@
 {
-  "name": "UniBitConnector",
+  "name": "unibitconnector",
   "version": "1.0.0",
   "description": "Social network for University",
   "main": "server.js",
